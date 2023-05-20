@@ -1,0 +1,23 @@
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+    
+}
+figcaption{
+    border: 1px white solid;
+    text-align: center;
+}
+
+section{
+    border: solid 1px white;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+}
+figure{
+    border: 1px white solid;
+    align-content: center;
+    margin-left: 50px;
+}
